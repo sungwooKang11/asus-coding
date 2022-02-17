@@ -54,9 +54,9 @@ body {
 
 .toggle.active span:nth-child(2) {
     width: 100px;
-    transform: translateY(0px) rotate(-45deg);
+    transform: translateY(0px) rotate(135deg);
 }
 
 .toggle.active span:nth-child(3) {
-    transform: translateX(200px);
+    transform: translateX(200px) ;
 }
